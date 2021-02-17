@@ -1,6 +1,6 @@
 {
-  "name": "@jsplayground/local-api",
-  "version": "0.0.1",
+  "name": "@jsjunglegym/local-api",
+  "version": "1.0.0",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -23,9 +23,10 @@
     "typescript": "^4.1.5"
   },
   "dependencies": {
-    "@jsplayground/local-client": "^0.0.1",
+    "@jsjunglegym/local-client": "^1.0.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "http-proxy-middleware": "^1.0.6"
-  }
+  },
+  "gitHead": "fbfcb7b23b7f16471f713bfa48b82dc2b1365a19"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "@jsplayground/local-client",
-  "version": "0.0.1",
+  "name": "@jsjunglegym/local-client",
+  "version": "1.0.0",
   "publishConfig": {
     "access": "public"
   },
@@ -65,5 +65,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "gitHead": "fbfcb7b23b7f16471f713bfa48b82dc2b1365a19"
 }
