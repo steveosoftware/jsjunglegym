@@ -1,6 +1,6 @@
 {
   "name": "@jsjunglegym/local-api",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -23,7 +23,7 @@
     "typescript": "^4.1.5"
   },
   "dependencies": {
-    "@jsjunglegym/local-client": "^1.0.0",
+    "@jsjunglegym/local-client": "^2.0.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "http-proxy-middleware": "^1.0.6"

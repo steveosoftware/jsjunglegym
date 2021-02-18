@@ -1,6 +1,6 @@
 {
   "name": "jsjunglegym",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "bin": "dist/index.js",
   "publishConfig": {
@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jsjunglegym/local-client": "^1.0.0"
+    "@jsjunglegym/local-client": "^2.0.0"
   },
   "devDependencies": {
-    "@jsjunglegym/local-api": "^1.0.0",
+    "@jsjunglegym/local-api": "^2.0.0",
     "@types/node": "^14.14.28",
     "commander": "^7.0.0",
     "esbuild": "0.8.26",
